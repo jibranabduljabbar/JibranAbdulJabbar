@@ -7,8 +7,14 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Dyi9oMobpvWCp7572QjypIiwMcA_LMbnGA&usqp=CAU" width="1200px" />
 <br>
 <br>
-
-<img src="https://miro.medium.com/max/1558/1*Dt5lIK02IQs0emFI4DkHAg.gif" width="1200px"/>
+<div>
+  <h1>HTML_(5)</h1>
+<img src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="1200px"/>
+  <h1>CSS_(3)</h1>
+<img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" width="1200px"/>
+  <h1>JavaScript</h1>
+<img src="https://i.stack.imgur.com/kugNH.gif" width="1200px"/>
+</div>
 <!---
 jibranabduljabbar/jibranabduljabbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
