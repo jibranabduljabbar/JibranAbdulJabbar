@@ -5,7 +5,13 @@
 - 📫 How to reach me ...
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Dyi9oMobpvWCp7572QjypIiwMcA_LMbnGA&usqp=CAU" width="1200px" />
-
+<br>
+<br>
+<img src="" width="1200px" />
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"
+/>
 <!---
 jibranabduljabbar/jibranabduljabbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
