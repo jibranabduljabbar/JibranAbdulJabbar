@@ -8,12 +8,16 @@
 <br>
 <br>
 <div style="text-align: 'center';color:"red">
+                                            <hr />
   <h1>_________________________________HTML_(5)___________________________________</h1>
 <img style="text-align: center;" src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="400px"/>
+  <hr />
   <h1>__________________________________CSS_(3)____________________________________</h1>
 <img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="500px"/>
+  <hr />
   <h1>________________________________JavaScript__________________________________</h1>
 <img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>
+<hr />
 </div>
 <!---
 jibranabduljabbar/jibranabduljabbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
