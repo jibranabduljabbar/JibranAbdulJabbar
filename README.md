@@ -19,7 +19,7 @@
   <hr />
   <h1>________________________________JavaScript__________________________________</h1>
                                                                                                                                            <hr />
-<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>
+_____________________________<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>
 <hr />
 </div>
 <!---
