@@ -7,7 +7,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Dyi9oMobpvWCp7572QjypIiwMcA_LMbnGA&usqp=CAU" width="1200px" />
 <br>
 <br>
-<div style="text-align: 'center'">
+<div style="text-align: 'center';color:"red">
   <h1>HTML_(5)</h1>
 <img style="text-align: center;" src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="400px"/>
   <h1 style="text-align: center;">CSS_(3)</h1>
