@@ -15,11 +15,11 @@ _________________________________________________<img style="text-align: center;
   <hr />
   <h1>__________________________________CSS_(3)____________________________________</h1>
                                                                                                                             <hr />
-_______________________________________________<img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="450px"/>
+____________________________________________<img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="450px"/>
   <hr />__________________________________________________________
   <h1>________________________________JavaScript__________________________________</h1>
                                                                                                                                            <hr />
-___________________________________________________<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>____________________________________________________
+____________________________________________________<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>____________________________________________________
 <hr />
 </div>
 <!---
