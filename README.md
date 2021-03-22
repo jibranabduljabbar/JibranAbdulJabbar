@@ -8,7 +8,7 @@
 <br>
 <br>
 <div style="text-align: 'center';color:"red">
-  <h1>___________________________________________________________HTML_(5)________________________________________________________________________</h1>
+  <h1>________________________________HTML_(5)___________________________________</h1>
 <img style="text-align: center;" src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="400px"/>
   <h1 style="text-align: center;">CSS_(3)</h1>
 <img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="500px"/>
