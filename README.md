@@ -11,15 +11,15 @@
                                             <hr />
   <h1>_________________________________HTML_(5)___________________________________</h1>
                                             <hr />
-<img style="text-align: center;" src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="350px"/>
+____________________________________________________________________<img style="text-align: center;" src="https://imgs.developpaper.com/imgs/596704542-5d006e7389c90_articlex.gif" width="350px"/>____________________________________________
   <hr />
   <h1>__________________________________CSS_(3)____________________________________</h1>
                                                                                                                             <hr />
-<img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="400px"/>
-  <hr />
+________________________________________________________________<img src="https://raw.github.com/luispadron/UICircularProgressRing/v1.1.7//GitHubAssets/demo.gif" style="text-align: center;" width="450px"/>
+  <hr />__________________________________________________________
   <h1>________________________________JavaScript__________________________________</h1>
                                                                                                                                            <hr />
-___________________________________________<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>_____________________
+___________________________________________________________<img style="text-align: center;" src="https://i.stack.imgur.com/kugNH.gif" width="300px"/>______________________________________________________________________
 <hr />
 </div>
 <!---
