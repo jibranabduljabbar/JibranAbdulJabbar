@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Dyi9oMobpvWCp7572QjypIiwMcA_LMbnGA&usqp=CAU" width="1200px" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dkFxTwJ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ux6uf870i7esod0sx4sw.png" width="1200px" />
 <br>
 <br>
 <!---
