@@ -6,11 +6,6 @@
 - <br />
 - <br />
 
-
-## Stats
-
-> These themes work both for the Stats Card and Repo Card.
-
 | | | |
 | :--: | :--: | :--: |
 | `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
