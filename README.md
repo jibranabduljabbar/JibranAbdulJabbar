@@ -8,14 +8,10 @@
 
 [![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
 
-<br>
-<br>
 
 [![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/pin/?username=jibranabduljabbar&repo=github-readme-stats)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 
-<br>
-<br>
 
 [![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&langs_count=8)](https://github.com/jibranabduljabbar/github-readme-stats)
 
