@@ -6,7 +6,7 @@
 <br/>
 
 - 👋 Hi, I’m @Jibran-Abdul-Jabbar.
-- 👀 I’m interested in Programming Language.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I want to cooperate with you guys. You guys read
 - 📫 How to reach me By reading.
