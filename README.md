@@ -6,9 +6,7 @@
  <br />
  <br />
 
-| | | |
-| :--: | :--: | :--: |
-| `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
+`radical` ![radical][radical] |
 | `merko` ![merko][merko] | `gruvbox` ![gruvbox][gruvbox] | `tokyonight` ![tokyonight][tokyonight] |
 | `onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
 | `highcontrast` ![highcontrast][highcontrast] | `dracula` ![dracula][dracula] | `prussian` ![prussian][prussian] |
