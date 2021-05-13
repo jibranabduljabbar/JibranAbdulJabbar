@@ -11,20 +11,20 @@
 <br>
 <br>
 
-[![jibranabduljabbar](https://github-readme-stats.vercel.app/api/pin/?username=jibranabduljabbar&repo=github-readme-stats)](https://github.com/jibranabduljabbar/github-readme-stats)
+[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/pin/?username=jibranabduljabbar&repo=github-readme-stats)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&langs_count=8)](https://github.com/jibranabduljabbar/github-readme-stats)
+[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&langs_count=8)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 
 
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/wakatime?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 <br>
 <br>
