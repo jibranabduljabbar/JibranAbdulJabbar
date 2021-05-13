@@ -1,19 +1,16 @@
 <h1>Hi there 👋</h1>
 
-I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap.
+📫 I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap 📫.
 
 <br/>
 <br/>
-
-
-
-
 
 - 👋 Hi, I’m @Jibran-Abdul-Jabbar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 
  <br />
  <br />
 
