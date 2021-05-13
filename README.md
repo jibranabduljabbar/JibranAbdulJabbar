@@ -8,6 +8,11 @@
 
 [![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
 
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 
 <br>
 <br>
