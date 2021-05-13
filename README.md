@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/jibranabduljabbar/Calculator-AppliCation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jibranabduljabbar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jibranabduljabbar&repo=convoychat" />
