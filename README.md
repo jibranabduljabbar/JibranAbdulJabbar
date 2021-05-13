@@ -39,11 +39,11 @@
 <h2>Skills Experience</h2>
 <hr />
 <ul>
-<li>HTML & CSS</li>
-<li>JavaScript & ECMAScript6</li>
-<li>React Js & Redux</li>
-<li>Firebase & GitHub</li>
-<li>Bootstrap</li>
+<li>HTML & CSS.</li>
+<li>JavaScript & ECMAScript6.</li>
+<li>React Js & Redux.</li>
+<li>Firebase & GitHub.</li>
+<li>Bootstrap.</li>
 </ul>
 <br>
 <br>
