@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Jibran-Abdul-Jabbar.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Learning and become a software developer.
-- 📫 How to reach me By Reading.
-- 
+- 👋 Hi, I’m @Jibran-Abdul-Jabbar
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
  <br />
  <br />
 
@@ -12,7 +11,8 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
+
 
 <br>
 <br>
