@@ -5,11 +5,11 @@
 <br/>
 <br/>
 
-- 👋 Hi, I’m @Jibran-Abdul-Jabbar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jibran-Abdul-Jabbar.
+- 👀 I’m interested in Programming Language.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I want to cooperate with you guys. You guys read
+- 📫 How to reach me By reading.
 - 
  <br />
  <br />
