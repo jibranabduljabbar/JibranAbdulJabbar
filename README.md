@@ -45,6 +45,9 @@
 <li>Firebase & GitHub.</li>
 <li>Bootstrap.</li>
 </ul>
+<h2>Examples of Work</h2>
+<hr />
+
 <br>
 <br>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dkFxTwJ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ux6uf870i7esod0sx4sw.png" width="1200px" />
