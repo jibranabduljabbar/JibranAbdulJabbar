@@ -1,5 +1,7 @@
 <h1>Hi there 👋</h1>
 
+<hr/>
+
 📫 I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap 📫.
 
 <br/>
