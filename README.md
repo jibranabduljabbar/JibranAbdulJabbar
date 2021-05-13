@@ -6,7 +6,7 @@
  <br />
  <br />
 
-[![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jibranabduljabbar/github-readme-stats)
+[![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 
 <br>
