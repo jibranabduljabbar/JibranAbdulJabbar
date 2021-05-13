@@ -11,10 +11,10 @@
 <br>
 <br>
 
-<a href="https://github.com/jibranabduljabbar/Calculator-AppliCation">
+<a href="https://github.com/jibranabduljabbar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/jibranabduljabbar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
