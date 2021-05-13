@@ -54,6 +54,7 @@
 <li>Firebase & GitHub.</li>
 <li>Bootstrap.</li>
 </ul>
+<hr />
 <h2>Examples of Work</h2>
 <hr />
 
