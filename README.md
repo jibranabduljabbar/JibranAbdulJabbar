@@ -6,9 +6,9 @@
  <br />
  <br />
 
-`radical` ![radical][radical] |
+![Jibran Abdul Jabbar][Jibran Abdul Jabbar] |
 
-| `material-palenight` ![material-palenight][material-palenight_repo]
+![Jibran Abdul Jabbar][Jibran Abdul Jabbar]
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
