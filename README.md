@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
  <br />
  <br />
-
-| `radical` ![radical][radical_repo]
+| `radical` ![radical][radical]
 
 | `material-palenight` ![material-palenight][material-palenight_repo]
 
