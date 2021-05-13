@@ -36,9 +36,15 @@
 <br>
 <br>
 
-<h3>Skills Experience</h3>
+<h2>Skills Experience</h2>
 <hr />
-
+<ul>
+<li>HTML & CSS</li>
+<li>JavaScript & ECMAScript6</li>
+<li>React Js & Redux</li>
+<li>Firebase & GitHub</li>
+<li>Bootstrap</li>
+</ul>
 <br>
 <br>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dkFxTwJ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ux6uf870i7esod0sx4sw.png" width="1200px" />
