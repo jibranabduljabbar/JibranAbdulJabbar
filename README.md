@@ -21,9 +21,6 @@
 
 
 
-<br>
-<br>
-
 [![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/jibranabduljabbar/github-readme-stats)
 
 <br>
