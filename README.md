@@ -49,11 +49,13 @@
 <h2>Skills Experience</h2>
 <hr />
 <ul>
-<li>HTML & CSS.</li>
-<li>JavaScript & ECMAScript6.</li>
-<li>React Js & Redux.</li>
-<li>Firebase & GitHub.</li>
-<li>Bootstrap.</li>
+<li>HTML & CSS.                 ||                      JsvsScript & ECMAScript6.</li>
+<li>React Js & Redux.           ||                      Firebase & GitHub.</li>
+<li>Dart Programming.           ||                      Flutter Programming.</li>
+<li>Python Programming.         ||                      React Native.</li>
+<li>Bootstrap 4.                ||                      MongoDB.</li>
+<li>Node Js.                    ||                      Express Js.</li>
+ 
 </ul>
 <hr />
 <h2>Examples of Work</h2>
