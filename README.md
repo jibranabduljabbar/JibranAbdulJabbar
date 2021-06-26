@@ -7,8 +7,6 @@
 
 <hr/>
 <br/>
-<br/>
-
 <ol>
 <i><li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li></i>
 <i><li> - 👀 I’m interested in Programming.</li></i>
