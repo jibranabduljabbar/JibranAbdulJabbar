@@ -1,5 +1,5 @@
 <hr />
-<h1>👀 Jibran Abdul Jabbar 👀</h1>
+<h1><i>👀 Jibran Abdul Jabbar 👀</i></h1>
 
 
 
