@@ -10,11 +10,11 @@
 <br/>
 
 
-<li><i> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</i></li>
-<li><i> - 👀 I’m interested in Programming.</i></li>
-<li><i> - 🌱 I’m currently learning Flutter.</i></li>
-<li><i> - 💞️ I want to cooperate with you guys. You guys read</i></li>
-<li><i> - 📫 How to reach me By reading.</i></li>
+<i><li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li></i>
+<i><li> - 👀 I’m interested in Programming.</li></i>
+<i><li> - 🌱 I’m currently learning Flutter.</li></i>
+<i><li> - 💞️ I want to cooperate with you guys. You guys read</li></i>
+<i><li> - 📫 How to reach me By reading.</li></i>
 
  
  <br />
