@@ -51,10 +51,10 @@
 <ul>
 <li>HTML & CSS.                 ||                      JsvsScript & ECMAScript6.</li>
 <li>React Js & Redux.           ||                      Firebase & GitHub.</li>
-<li>Dart Programming.           ||                      Flutter Programming.</li>
-<li>Python Programming.         ||                      React Native.</li>
-<li>Bootstrap 4.                ||                      MongoDB.</li>
-<li>Node Js.                    ||                      Express Js.</li>
+<li>React Native Programming.   ||                      Flutter Programming.</li>
+<li>Python Programming.         ||                      Dart Programming.</li>
+<li>Bootstrap 4 & Material UI.  ||                      React Natve Element & Native Base.</li>
+<li>Node Js & MongoDB.          ||                      Express Js & Responsive Web Designing.</li>
  
 </ul>
 <hr />
@@ -63,6 +63,6 @@
 
 <br>
 <br>
-<img src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t1.6435-9/s720x720/165075275_279666523650856_6249265773295195671_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=AfPh9FNX0PkAX_ctunC&_nc_ht=scontent.fkhi2-2.fna&tp=7&oh=2bb4c1ec824ce4a9cb3a5c7b0b6e563b&oe=60C3BAB6" width="1200px" />
+<img src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t1.6435-9/197253755_310691713936349_6770579101397399945_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=yKLS49TBex4AX9JVusG&_nc_ht=scontent.fkhi2-2.fna&oh=e808f393bf2e389e32b8d112572a7cb2&oe=60DC2BBF" width="1200px" />
 <br>
 <br>
