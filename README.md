@@ -9,13 +9,13 @@
 <br/>
 <br/>
 
-
+<ol>
 <i><li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li></i>
 <i><li> - 👀 I’m interested in Programming.</li></i>
 <i><li> - 🌱 I’m currently learning Flutter.</li></i>
 <i><li> - 💞️ I want to cooperate with you guys. You guys read</li></i>
 <i><li> - 📫 How to reach me By reading.</li></i>
-
+</ol
  
  <br />
  <br />
