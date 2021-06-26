@@ -13,7 +13,7 @@
 <i><li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li></i>
 <i><li> - 👀 I’m interested in Programming.</li></i>
 <i><li> - 🌱 I’m currently learning Flutter.</li></i>
-<i><li> - 💞️ I want to cooperate with you guys. You guys read</li></i>
+<i><li> - 💞️ I want to cooperate with you guys. You guys read.</li></i>
 <i><li> - 📫 How to reach me By reading.</li></i>
 </ol
  
@@ -48,19 +48,19 @@
 <br>
 <br>
 
-<h2>Skills Experience</h2>
+ <h2><i>Skills Experience</i></h2>
 <hr />
 <ul>
-<li>HTML & CSS.                 ||                      JsvsScript & ECMAScript6.</li>
-<li>React Js & Redux.           ||                      Firebase & GitHub.</li>
-<li>React Native Programming.   ||                      Flutter Programming.</li>
-<li>Python Programming.         ||                      Dart Programming.</li>
-<li>Bootstrap 4 & Material UI.  ||                      React Natve Element & Native Base.</li>
-<li>Node Js & MongoDB.          ||                      Express Js & Responsive Web Designing.</li>
+ <li><i>HTML & CSS.                 ||                      JsvsScript & ECMAScript6.</i></li>
+ <li><i>React Js & Redux.           ||                      Firebase & GitHub.</i></li>
+ <li><i>React Native Programming.   ||                      Flutter Programming.</i></li>
+ <li><i>Python Programming.         ||                      Dart Programming.</i></li>
+ <li><i>Bootstrap 4 & Material UI.  ||                      React Natve Element & Native Base.</i></li>
+<li><i>Node Js & MongoDB.          ||                      Express Js & Responsive Web Designing.</i></li>
  
 </ul>
 <hr />
-<h2>Examples of Work</h2>
+ <h2><i>Examples of Work</i></h2>
 <hr />
 
 <br>
