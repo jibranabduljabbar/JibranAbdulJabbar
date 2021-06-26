@@ -1,5 +1,5 @@
 <hr />
-<h1><i>🏆 Jibran Abdul Jabbar 🏆</i></h1>
+<h1><i color="grey">🏆 Jibran Abdul Jabbar 🏆</i></h1>
 
 
 
