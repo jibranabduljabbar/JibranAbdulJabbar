@@ -46,6 +46,8 @@
 <br>
 <br> 
  
+<hr />
+ 
  <h2><i>Connect with me:</i></h2>
  
 <hr />
@@ -69,6 +71,7 @@
 <br>
 <br>
 
+<hr />
  
  <h2><i>Languages and Tools:</i></h2>
 
