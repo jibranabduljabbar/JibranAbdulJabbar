@@ -14,7 +14,7 @@
 </ol
  <br />
 
- <h2 style="font-family: "cursive">📙 Learning With JAJ Digital 📙</h2>
+ <h2 style="font-family: "cursive"><i>📙 Learning With JAJ Digital 📙</i></h2>
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=nA6_xsOXJbE" target="_blank">
