@@ -1,9 +1,7 @@
 <hr />
 <h1><i style="color: 'aqua'">🏆 Jibran Abdul Jabbar 🏆</i></h1>
 
-<iframe width="716" height="403" src="https://www.youtube.com/embed/nA6_xsOXJbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="716" height="403" src="https://www.youtube.com/embed/jZ2WIzaVJiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src ="https://i.ytimg.com/an_webp/nA6_xsOXJbE/mqdefault_6s.webp?du=3000&sqp=CKXD-owG&rs=AOn4CLB9JN7Xo8QIbUczQtnn4uAJ2oRyhQ" width="100px" height="100px" />
 
 <p><i>📫 I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap 📫.</i></p>
 
