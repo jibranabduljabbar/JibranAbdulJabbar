@@ -14,7 +14,6 @@
 </ol
  <br />
  <br />
- <br />
  
  <hr />
 
@@ -35,6 +34,7 @@
  
  <br />
  <br />
+< hr />
 
 [![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
 
