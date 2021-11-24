@@ -14,7 +14,7 @@
 </ol
  <br />
 
- <h1>Learning With JAJ Digital</h1>
+ <h1 style="font-family: "cursive">Learning With JAJ Digital</h1>
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=nA6_xsOXJbE" target="_blank">
