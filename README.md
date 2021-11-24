@@ -18,6 +18,7 @@
  <hr />
 
  <h2 style="font-family: "cursive"><i>📙 Learning With JAJ Digital 📙</i></h2>
+ <hr />
                                   <br />
                                   <br />
                                   
