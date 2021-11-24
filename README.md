@@ -1,7 +1,7 @@
 <hr />
 <h1><i style="color: 'aqua'">🏆 Jibran Abdul Jabbar 🏆</i></h1>
 
-<img src ="https://i.ytimg.com/vi/nA6_xsOXJbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAns0ZkmpU9mEv7m5zqpcvoY51aJQ" width="250px" height="200px" />
+<img src ="https://i.ytimg.com/vi/nA6_xsOXJbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAns0ZkmpU9mEv7m5zqpcvoY51aJQ" width="250px" height="180px" />
 
 <p><i>📫 I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap 📫.</i></p>
 
