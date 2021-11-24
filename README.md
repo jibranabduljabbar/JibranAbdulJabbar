@@ -1,11 +1,11 @@
 <hr />
 <h1><i style="color: 'aqua'">🏆 Jibran Abdul Jabbar 🏆</i></h1>
 
-<div align="center">
-<a href="https://www.youtube.com/watch?v=nA6_xsOXJbE" target="_blank">
+<div>
+<a align="left" href="https://www.youtube.com/watch?v=nA6_xsOXJbE" target="_blank">
 <img src ="https://i.ytimg.com/vi/nA6_xsOXJbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAns0ZkmpU9mEv7m5zqpcvoY51aJQ" width="280px" height="180px" />
 </a>
-<a style="margin: '100'" href="https://www.youtube.com/watch?v=jZ2WIzaVJiM" target="_blank">
+<a align="right" style="margin: '100'" href="https://www.youtube.com/watch?v=jZ2WIzaVJiM" target="_blank">
 <img src ="https://i.ytimg.com/vi/jZ2WIzaVJiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr4xr3adKs_dkXY9FsP92YS1HddA" width="280px" height="180px" />
 </a>
  </div>
