@@ -137,10 +137,6 @@
 
 <br>
 <br>
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="https://www.facebook.com/100048225301864/videos/234998825342118/" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+<img src="https://scontent.fkhi2-3.fna.fbcdn.net/v/t39.30808-6/241996904_371994744472712_7757423765889160761_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=kPOEWWa2jPkAX-ANgzY&_nc_ht=scontent.fkhi2-3.fna&oh=0e1cf7019eec030a27ba2851c703f816&oe=61A3420A" width="1200px" />
 <br>
 <br>
