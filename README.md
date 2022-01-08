@@ -63,8 +63,11 @@
 <br>
 <br>
 
+<p align="center">
+
 ![draw](https://profile-counter.glitch.me/{bistcuite}/count.svg)
-                                                                                                                
+
+</p>
 <br>
 <br> 
  
@@ -76,7 +79,6 @@
  
  
  
-<p align="center">
 <a href="https://codepen.io/jibranabduljabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jibranabduljabbar" height="30" width="40" /></a>
 <a href="https://dev.to/jibran123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/jibran123" height="30" width="40" /></a>
 <a href="https://twitter.com/jibran24997917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jibran24997917" height="30" width="40" /></a>
