@@ -65,7 +65,7 @@
 
 <p align="center">
 
-![draw](https://profile-counter.glitch.me/{bistcuite}/count.svg)
+![draw](https://profile-counter.glitch.me/{jibranabduljabbar}/count.svg)
 
 </p>
 <br>
