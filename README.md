@@ -1,7 +1,9 @@
 <hr />
-<h1><i style="color: 'aqua'">🏆 Jibran Abdul Jabbar 🏆</i></h1>
+<br>
+<br>
+<h1><center>🏆 Jibran Abdul Jabbar 🏆</center></h1>
  
-<p><i>📫 I am a front end and back end developer. I use HTML and CSS to create website templates. And I also use JavaScript while on functionality. And I also do hosting, database, authentication, storage work while on firebase. And I also create designing templates using Bootstrap 📫.</i></p>
+<p style="arial">📫 Hey' I am a Web, Android, IOS and Artificial Intelligence Developer. I have working in Android Development using Flutter and Dart Technologies. I have created more than 50+ Apps using Flutter and React Native Technologies and Created more than 76+ Website using Full Stack Development and I am Working hands on experience in Face Detection, Face Mesh, Iris, Hands, Pose, Holistic, Selfie Segmentation, Hair Segmentation, Object Detection, Box Tracking, etc. Using Computer Vision and I have recently completed my Inter. Currently I am working on new Technologies like, Web 3.0 & Metaverse. 📫</p>
 
 <hr/>
 <br/>
