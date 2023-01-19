@@ -1,9 +1,9 @@
 <hr />
 <br>
 <br>
-<center><h1>🏆 Jibran Abdul Jabbar 🏆<h1></center>
+<h1 align="center">🏆 Jibran Abdul Jabbar 🏆<h1>
  <br>
-<center><p style="arial">📫 Hey' I am a Web, Android, IOS and Artificial Intelligence Developer. I have working in Android Development using Flutter and Dart Technologies. I have created more than 50+ Apps using Flutter and React Native Technologies and Created more than 76+ Website using Full Stack Development and I am Working hands on experience in Face Detection, Face Mesh, Iris, Hands, Pose, Holistic, Selfie Segmentation, Hair Segmentation, Object Detection, Box Tracking, etc. Using Computer Vision and I have recently completed my Inter. Currently I am working on new Technologies like, Web 3.0 & Metaverse. 📫</p></center>
+<p align="center" style="arial">📫 Hey' I am a Web, Android, IOS and Artificial Intelligence Developer. I have working in Android Development using Flutter and Dart Technologies. I have created more than 50+ Apps using Flutter and React Native Technologies and Created more than 76+ Website using Full Stack Development and I am Working hands on experience in Face Detection, Face Mesh, Iris, Hands, Pose, Holistic, Selfie Segmentation, Hair Segmentation, Object Detection, Box Tracking, etc. Using Computer Vision and I have recently completed my Inter. Currently I am working on new Technologies like, Web 3.0 & Metaverse. 📫</p>
 
 <hr/>
 <br/>
