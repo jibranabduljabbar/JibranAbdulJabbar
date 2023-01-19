@@ -8,18 +8,18 @@
 <hr/>
 <br/>
 <ol>
-<i><li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li></i>
-<i><li> - 👀 I’m interested in Programming.</li></i>
-<i><li> - 🌱 I’m currently learning Flutter.</li></i>
-<i><li> - 💞️ I want to cooperate with you guys. You guys read.</li></i>
-<i><li> - 📫 How to reach me By reading.</li></i>
+<li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li>
+<li> - 👀 I’m interested in Programming.</li>
+<li> - 🌱 I’m currently learning Flutter.</li>
+<li> - 💞️ I want to cooperate with you guys. You guys read.</li>
+<li> - 📫 How to reach me By reading.</li>
 </ol
  <br />
  <br />
  
  <hr />
 
- <h2 style="font-family: "cursive"><i>📙 Learning With JAJ Digital 📙</i></h2>
+ <h2 style="font-family: "cursive">📙 Learning With JAJ Digital 📙</h2>
  <hr />
                                   <br />
                                   <br />
@@ -75,7 +75,7 @@
  
 <hr />
  
- <h2><i>Connect with me:</i></h2>
+ <h2>Connect with me: </h2>
  
 <hr />
  
@@ -99,7 +99,7 @@
 
 <hr />
  
- <h2><i>Languages and Tools:</i></h2>
+ <h2>Languages and Tools: </h2>
 
  <hr />
  
@@ -127,9 +127,9 @@
 
 
                                                                                                                               
- <h2><i>Skills Experience</i></h2>
+ <h2>Skills Experience</h2>
 <hr />
-<ul>
+<ul align="center">
  <li><i>HTML & CSS.                 ||                      JavaScript & ECMAScript6 & JQuery.</i></li>
  <li><i>React Js & Redux.           ||                      Firebase & GitHub.</i></li>
  <li><i>React Native Programming.   ||                      Flutter Programming.</i></li>
@@ -139,7 +139,7 @@
  
 </ul>
 <hr />
- <h2><i>Examples of Work</i></h2>
+ <h2>Examples of Work</h2>
 <hr />
 
 <br>
