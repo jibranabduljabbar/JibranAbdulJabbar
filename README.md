@@ -8,11 +8,10 @@
 <hr/>
 <br/>
 <ol>
-<li> - 👋 Hi, I’m @Jibran-Abdul-Jabbar.</li>
-<li> - 👀 I’m interested in Programming.</li>
-<li> - 🌱 I’m currently learning Flutter.</li>
+<li> - 👋 Hey, I’m @Jibran-Abdul-Jabbar.</li>
+<li> - 👀 I’m interested in Computer Science.</li>
+<li> - 🌱 I’m currently learning Web 3.0 & Metaverse.</li>
 <li> - 💞️ I want to cooperate with you guys. You guys read.</li>
-<li> - 📫 How to reach me By reading.</li>
 </ol
  <br />
  <br />
