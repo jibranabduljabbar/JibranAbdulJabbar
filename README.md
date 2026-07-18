@@ -38,7 +38,7 @@
 
   <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
-  <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/metrics/github-metrics.svg" alt="metrics dashboard" />
+  <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/github-metrics.svg" alt="metrics dashboard" />
 
   <img src="https://streak-stats.demolab.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 
