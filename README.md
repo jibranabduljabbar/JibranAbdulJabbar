@@ -119,15 +119,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=C0CAF5&center=true&vCenter=true&width=900&lines=Have+a+project+in+mind%3F;Let's+build+it+together.;Fast+replies.+Clean+code.+On-time+delivery." alt="cta" />
 </p>
 
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~01f4146511fb9460e9">
-    <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/assets/upwork-top-rated.svg" alt="Upwork Top Rated" />
-  </a>
-</p>
-
 <div align="center">
 
   <a href="mailto:jibranjabbar06@gmail.com"><img src="https://img.shields.io/badge/Email-jibranjabbar06@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <br /><br />
+  <a href="https://www.upwork.com/freelancers/~01f4146511fb9460e9"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20freelancer%20with%20100%25%20success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" /></a>
   <br /><br />
   <a href="https://www.fiverr.com/jibran_jabbar12"><img src="https://img.shields.io/badge/Fiverr-Hire%20me%20for%20your%20next%20project-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr" /></a>
   <br /><br />
