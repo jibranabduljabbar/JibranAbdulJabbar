@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" font-family="'Courier New', Courier, monospace">
+  <style>
+    .line { opacity: 0; animation: show 0.35s ease forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .l1 { animation-delay: 0.4s; }
+    .l2 { animation-delay: 1.2s; }
+    .l3 { animation-delay: 2.2s; }
+    .l4 { animation-delay: 3.0s; }
+    .l5 { animation-delay: 4.0s; }
+    .l6 { animation-delay: 4.8s; }
+    .l7 { animation-delay: 5.8s; }
+    .l8 { animation-delay: 6.6s; }
+    .l9 { animation-delay: 7.6s; }
+    .cursor { opacity: 0; animation: show 0.1s 7.9s forwards; }
+    .blink { animation: blink 1.1s step-end 8s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .p { fill: #7aa2f7; } .c { fill: #c0caf5; } .g { fill: #9ece6a; }
+    .y { fill: #e0af68; } .m { fill: #bb9af7; } .d { fill: #565f89; }
+    text { font-size: 17px; letter-spacing: 0.2px; }
+  </style>
+  <rect x="1" y="1" width="878" height="418" rx="12" fill="#1a1b27" stroke="#2f3549" stroke-width="2"/>
+  <path d="M1 13 Q1 1 13 1 H867 Q879 1 879 13 V42 H1 Z" fill="#16161e"/>
+  <circle cx="26" cy="22" r="6.5" fill="#f7768e"/>
+  <circle cx="48" cy="22" r="6.5" fill="#e0af68"/>
+  <circle cx="70" cy="22" r="6.5" fill="#9ece6a"/>
+  <text x="440" y="27" text-anchor="middle" class="d" font-size="13">jibran@vscotek: ~</text>
+
+  <text x="30" y="84" class="line l1"><tspan class="g">jibran@vscotek</tspan><tspan class="d">:</tspan><tspan class="p">~</tspan><tspan class="c">$ whoami</tspan></text>
+  <text x="30" y="116" class="line l2 c">Full-Stack Engineer at VSCO Tek | React, Next.js, Node.js, TypeScript</text>
+
+  <text x="30" y="164" class="line l3"><tspan class="g">jibran@vscotek</tspan><tspan class="d">:</tspan><tspan class="p">~</tspan><tspan class="c">$ ls ~/shipped</tspan></text>
+  <text x="30" y="196" class="line l4"><tspan class="y">web-apps(75+)</tspan><tspan class="d">    </tspan><tspan class="m">mobile-apps(50+)</tspan><tspan class="d">    </tspan><tspan class="p">ai-vision-projects</tspan></text>
+
+  <text x="30" y="244" class="line l5"><tspan class="g">jibran@vscotek</tspan><tspan class="d">:</tspan><tspan class="p">~</tspan><tspan class="c">$ uptime</tspan></text>
+  <text x="30" y="276" class="line l6 c">5+ years in production, 1764+ contributions, 26 day commit streak</text>
+
+  <text x="30" y="324" class="line l7"><tspan class="g">jibran@vscotek</tspan><tspan class="d">:</tspan><tspan class="p">~</tspan><tspan class="c">$ contact --hire</tspan></text>
+  <text x="30" y="356" class="line l8"><tspan class="g">jibranjabbar06@gmail.com</tspan><tspan class="c">  |  fiverr.com/jibran_jabbar12  |  replies in 24h</tspan></text>
+
+  <text x="30" y="396" class="line l9"><tspan class="g">jibran@vscotek</tspan><tspan class="d">:</tspan><tspan class="p">~</tspan><tspan class="c">$ </tspan></text>
+  <rect x="90" y="382" width="10" height="18" fill="#c0caf5" class="cursor blink"/>
+</svg>
