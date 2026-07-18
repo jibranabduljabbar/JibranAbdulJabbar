@@ -20,25 +20,9 @@
 
 <br />
 
-```typescript
-const jibran: FullStackEngineer = {
-  company:  "VSCO Tek (PVT) Ltd",
-  location: "Karachi, Pakistan",
-  uptime:   "5+ years in production",
-
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-    backend:  ["Node.js", "Express", "MongoDB", "Firebase"],
-    mobile:   ["Flutter", "React Native"],
-    ai:       ["OpenCV", "MediaPipe", "Computer Vision"],
-  },
-
-  shipped:      { webApps: 75, mobileApps: 50 },
-  currentFocus: "AI-powered web platforms",
-
-  contact: "jibranjabbar06@gmail.com", // response time < 24h
-};
-```
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/assets/terminal.svg" alt="terminal" />
+</p>
 
 <div align="center">
 
@@ -53,6 +37,8 @@ const jibran: FullStackEngineer = {
 <div align="center">
 
   <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+  <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/metrics/github-metrics.svg" alt="metrics dashboard" />
 
   <img src="https://streak-stats.demolab.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 
