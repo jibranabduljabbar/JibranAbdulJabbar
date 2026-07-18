@@ -19,7 +19,6 @@ jobs:
           template: classic
           base: header, repositories
           config_timezone: Asia/Karachi
-          committer_branch: metrics
           filename: github-metrics.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
