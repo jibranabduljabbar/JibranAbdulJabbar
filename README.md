@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Jibran Abdul Jabbar 👋</h1>
-<h3 align="center">Full-Stack Engineer · React / Next.js · Node.js · TypeScript</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jibran%20Abdul%20Jabbar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer&descAlignY=55&descSize=20" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;75%2B+web+apps+%C2%B7+50%2B+mobile+apps+shipped;AI+%26+Computer+Vision+experience;Open+for+freelance+%26+full-time+work" alt="typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jibranabduljabbar&style=for-the-badge&color=58A6FF" alt="profile views" />
+</p>
 
 <p align="center">
   <a href="https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2ea44f?style=for-the-badge" alt="Portfolio" /></a>
@@ -8,47 +17,30 @@
   <a href="https://linkedin.com/in/jibran-abdul-jabbar-249a66209"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+## 👨‍💻 About Me
 
-## 🚀 About Me
+```typescript
+const jibran = {
+  role: "Full-Stack Engineer",
+  company: "VSCO Tek (PVT) Ltd",
+  location: "Karachi, Pakistan 🇵🇰",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB", "Firebase"],
+    mobile: ["Flutter", "React Native"],
+    ai: ["OpenCV", "MediaPipe", "Face & Object Detection"],
+  },
+  shipped: { webApps: "75+", mobileApps: "50+" },
+  currentFocus: "AI-powered web platforms 🤖",
+  hireMe: "jibranjabbar06@gmail.com", // I reply within 24h ⚡
+};
+```
 
-Full-Stack Engineer at **VSCO Tek (PVT) Ltd**, based in Karachi, Pakistan, with **5+ years of hands-on experience** shipping production web and mobile applications.
+## 🛠️ Tech Stack
 
-- 🌐 Built **75+ websites and web apps** — from landing pages to full SaaS platforms
-- 📱 Delivered **50+ mobile apps** with Flutter and React Native
-- 🤖 Applied AI/Computer Vision experience: face detection, pose estimation, object detection, segmentation
-- 💼 Open to **freelance projects, contract work, and full-time opportunities**
-
-> 💬 **Have a project in mind?** Email me at [jibranjabbar06@gmail.com](mailto:jibranjabbar06@gmail.com) — I usually reply within 24 hours.
-
-## 🛠️ What I Work With
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Mobile & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,firebase,tailwind,sass,redux,flutter,dart,python,opencv,docker,git,postman&perline=9" alt="tech stack" />
+</p>
 
 ## 💼 Featured Projects
 
@@ -61,10 +53,22 @@ Full-Stack Engineer at **VSCO Tek (PVT) Ltd**, based in Karachi, Pakistan, with 
 
 👉 More on my [portfolio](https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/) and in my [repositories](https://github.com/jibranabduljabbar?tab=repositories).
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibranabduljabbar&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
 
 ## 🤝 Let's Work Together
@@ -81,5 +85,8 @@ I'm available for **freelance and contract work** — full-stack web apps, dashb
   <a href="https://medium.com/@jibranjabbar06"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/15539343/jibran-abdul-jabbar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://twitter.com/jibran24997917"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.youtube.com/channel/UCBpEZgiCVVpmVpExBMdiduw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
 </p>
