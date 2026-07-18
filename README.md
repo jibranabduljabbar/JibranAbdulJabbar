@@ -129,7 +129,7 @@ const jibran: FullStackEngineer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7aa2f7,100:1a1b27&height=3" alt="divider" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=C0CAF5&center=true&vCenter=true&width=700&lines=Have+a+project+in+mind%3F;Let's+build+it+together.;Fast+replies.+Clean+code.+On-time+delivery." alt="cta" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=C0CAF5&center=true&vCenter=true&width=900&lines=Have+a+project+in+mind%3F;Let's+build+it+together.;Fast+replies.+Clean+code.+On-time+delivery." alt="cta" />
 </p>
 
 <div align="center">
