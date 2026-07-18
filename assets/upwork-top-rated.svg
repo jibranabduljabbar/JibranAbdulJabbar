@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 310" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <style>
+    .fade { opacity: 0; animation: fadeUp 0.6s ease forwards; }
+    @keyframes fadeUp { to { opacity: 1; } }
+    .f1 { animation-delay: 0.2s; }
+    .f2 { animation-delay: 0.5s; }
+    .s1 { animation-delay: 0.7s; }
+    .s2 { animation-delay: 0.85s; }
+    .s3 { animation-delay: 1.0s; }
+    .s4 { animation-delay: 1.15s; }
+    .s5 { animation-delay: 1.3s; }
+    .st1 { animation-delay: 1.6s; }
+    .st2 { animation-delay: 1.8s; }
+    .st3 { animation-delay: 2.0s; }
+    .st4 { animation-delay: 2.2s; }
+    .f9 { animation-delay: 2.6s; }
+    .glow { animation: pulse 2.4s ease-in-out 1.2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+    .shine { animation: sweep 3s ease-in-out 1.5s infinite; }
+    @keyframes sweep { 0% { transform: translateX(-140px); } 45% { transform: translateX(180px); } 100% { transform: translateX(180px); } }
+  </style>
+  <defs>
+    <linearGradient id="topline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="0.5" stop-color="#6fda44"/>
+      <stop offset="1" stop-color="#1a1b27"/>
+    </linearGradient>
+    <clipPath id="pillclip"><rect x="196" y="42" width="150" height="36" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="308" rx="14" fill="#1a1b27" stroke="#2f3549" stroke-width="2"/>
+  <rect x="30" y="1" width="820" height="3" fill="url(#topline)"/>
+
+  <text x="40" y="70" font-size="32" font-weight="700" fill="#6fda44" class="fade f1">Upwork</text>
+
+  <g class="fade f2">
+    <rect x="196" y="42" width="150" height="36" rx="18" fill="#6fda44" class="glow" opacity="0.35"/>
+    <rect x="199" y="45" width="144" height="30" rx="15" fill="#14a800"/>
+    <text x="271" y="65" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="1.5">TOP RATED</text>
+    <g clip-path="url(#pillclip)">
+      <rect x="196" y="42" width="40" height="36" fill="#ffffff" opacity="0.25" transform="skewX(-20)" class="shine"/>
+    </g>
+  </g>
+
+  <text x="700" y="68" font-size="26" fill="#e0af68" class="fade s1">&#9733;</text>
+  <text x="728" y="68" font-size="26" fill="#e0af68" class="fade s2">&#9733;</text>
+  <text x="756" y="68" font-size="26" fill="#e0af68" class="fade s3">&#9733;</text>
+  <text x="784" y="68" font-size="26" fill="#e0af68" class="fade s4">&#9733;</text>
+  <text x="812" y="68" font-size="26" fill="#e0af68" class="fade s5">&#9733;</text>
+  <text x="840" y="67" font-size="18" font-weight="600" fill="#c0caf5" class="fade s5">5.0</text>
+
+  <line x1="40" y1="105" x2="840" y2="105" stroke="#2f3549" stroke-width="1"/>
+
+  <g class="fade st1" text-anchor="middle">
+    <text x="140" y="170" font-size="38" font-weight="700" fill="#6fda44">100%</text>
+    <text x="140" y="200" font-size="15" fill="#565f89">Job Success</text>
+  </g>
+  <g class="fade st2" text-anchor="middle">
+    <text x="340" y="170" font-size="38" font-weight="700" fill="#c0caf5">$20K+</text>
+    <text x="340" y="200" font-size="15" fill="#565f89">Total Earnings</text>
+  </g>
+  <g class="fade st3" text-anchor="middle">
+    <text x="540" y="170" font-size="38" font-weight="700" fill="#c0caf5">25+</text>
+    <text x="540" y="200" font-size="15" fill="#565f89">Jobs Completed</text>
+  </g>
+  <g class="fade st4" text-anchor="middle">
+    <text x="740" y="170" font-size="38" font-weight="700" fill="#c0caf5">1,000+</text>
+    <text x="740" y="200" font-size="15" fill="#565f89">Hours Worked</text>
+  </g>
+
+  <text x="440" y="265" text-anchor="middle" font-size="15" fill="#7aa2f7" class="fade f9">Top Rated status verified by Upwork. Click to view profile and reviews.</text>
+</svg>
