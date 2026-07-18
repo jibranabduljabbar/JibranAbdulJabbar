@@ -1,137 +1,91 @@
-<hr />
-<br>
-<br>
-<h1 align="center">🏆 Jibran Abdul Jabbar 🏆</h1>
-<br>
-<p align="center">📫 Hey' I am a Web, Android, IOS and Artificial Intelligence Developer. I have working in Android Development using Flutter and Dart Technologies. I have created more than 50+ Apps using Flutter and React Native Technologies and Created more than 76+ Website using Full Stack Development and I am Working hands on experience in Face Detection, Face Mesh, Iris, Hands, Pose, Holistic, Selfie Segmentation, Hair Segmentation, Object Detection, Box Tracking, etc. Using Computer Vision and I have recently completed my Inter. Currently I am working on new Technologies like, Web 3.0 & Metaverse. 📫</p>
-
-<hr/>
-<br/>
-<ol>
-<li> - 👋 Hey, I’m @Jibran-Abdul-Jabbar.</li>
-<li> - 👀 I’m interested in Computer Science.</li>
-<li> - 🌱 I’m currently learning Web 3.0 & Metaverse.</li>
-<li> - 💞️ I want to cooperate with you guys. You guys read.</li>
-</ol
- <br />
- <br />
- 
- <hr />
-
- <h2 style="font-family: "cursive">📙 Learning With JAJ Digital 📙</h2>
- <hr />
-                                  <br />
-                                  <br />
-                                  
-
-<div align="center">
-<a href="https://www.youtube.com/watch?v=nA6_xsOXJbE" target="_blank">
-<img src ="https://i.ytimg.com/vi/nA6_xsOXJbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAns0ZkmpU9mEv7m5zqpcvoY51aJQ" width="280px" height="180px" />
-</a>
-<a style="margin: '100'" href="https://www.youtube.com/watch?v=jZ2WIzaVJiM" target="_blank">
-<img src ="https://i.ytimg.com/vi/jZ2WIzaVJiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr4xr3adKs_dkXY9FsP92YS1HddA" width="280px" height="180px" />
-</a>
- </div>
-
- 
- <br />
- <br />
-<hr />
-
-[![Jibran Abdul Jabbar GitHub stats](https://github-readme-stats.vercel.app/api?username=jibranabduljabbar)](https://github.com/jibranabduljabbar/github-readme-stats)
-
-<br>
-<br>
-
-<a href="https://github.com/jibranabduljabbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a style="margin-left: 100px;" href="https://github.com/jibranabduljabbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-<br>
-<br>
-<br>
-
-[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&langs_count=8)](https://github.com/jibranabduljabbar/github-readme-stats)
-
-<br>
-<br>
-
-[![Jibran Abdul Jabbar](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/jibranabduljabbar/github-readme-stats)
-
-<br>
-<br>
+<h1 align="center">Hi, I'm Jibran Abdul Jabbar 👋</h1>
+<h3 align="center">Full-Stack Engineer · React / Next.js · Node.js · TypeScript</h3>
 
 <p align="center">
-
-![draw](https://profile-counter.glitch.me/{jibranabduljabbar}/count.svg)
-
-</p>
-<br>
-<br> 
- 
-<hr />
- 
- <h2>Connect with me: </h2>
- 
-<hr />
- 
- 
- 
-<a href="https://codepen.io/jibranabduljabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jibranabduljabbar" height="30" width="40" /></a>
-<a href="https://dev.to/jibran123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/jibran123" height="30" width="40" /></a>
-<a href="https://twitter.com/jibran24997917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jibran24997917" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jibran-abdul-jabbar-249a66209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jibran-abdul-jabbar-249a66209/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15539343/jibran-abdul-jabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15539343/jibran-abdul-jabbar" height="30" width="40" /></a>
-<a href="https://fb.com/stylishjibran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/stylishjibran" height="30" width="40" /></a>
-<a href="https://instagram.com/jajdigital/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jajdigital/" height="30" width="40" /></a>
-<a href="https://dribbble.com/jibranabduljabbar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/jibranabduljabbar786" height="30" width="40" /></a>
-<a href="https://medium.com/@jibranjabbar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jibranjabbar06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCBpEZgiCVVpmVpExBMdiduw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbpezgicvvpmvpexbmdiduw" height="30" width="40" /></a>
+  <a href="https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2ea44f?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:jibranjabbar06@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.fiverr.com/jibran_jabbar12"><img src="https://img.shields.io/badge/Fiverr-Work%20With%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="https://linkedin.com/in/jibran-abdul-jabbar-249a66209"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
- 
-<br>
-<br>
+---
 
-<hr />
- 
- <h2>Languages and Tools: </h2>
+## 🚀 About Me
 
- <hr />
- 
- <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Full-Stack Engineer at **VSCO Tek (PVT) Ltd**, based in Karachi, Pakistan, with **5+ years of hands-on experience** shipping production web and mobile applications.
 
- 
-<br>
-<br>
+- 🌐 Built **75+ websites and web apps** — from landing pages to full SaaS platforms
+- 📱 Delivered **50+ mobile apps** with Flutter and React Native
+- 🤖 Applied AI/Computer Vision experience: face detection, pose estimation, object detection, segmentation
+- 💼 Open to **freelance projects, contract work, and full-time opportunities**
 
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibranabduljabbar&show_icons=true&locale=en&layout=compact" alt="jibranabduljabbar" /></p>
+> 💬 **Have a project in mind?** Email me at [jibranjabbar06@gmail.com](mailto:jibranjabbar06@gmail.com) — I usually reply within 24 hours.
 
-  
-<br>
-<br>
+## 🛠️ What I Work With
 
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibranabduljabbar&" alt="jibranabduljabbar" /></p>
+**Frontend**
 
-                                                                                                                              
-<br>
-<br>
-                                                                                                                              
-<hr />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+**Backend & Database**
 
-                                                                                                                              
-<hr />
- <h2>Examples of Work</h2>
-<hr />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<br>
-<br>
-<img src="https://iili.io/HaZhoa1.jpg" width="1200px" />
-<br>
-<br>
+**Mobile & Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## 💼 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [**Auction.AI**](https://github.com/jibranabduljabbar/auction.ai) | TypeScript, Next.js | Complete AI-powered auction platform |
+| [**Dashboard App**](https://github.com/jibranabduljabbar/Dashboard-App) | Next.js, TypeScript | Contacts management dashboard UI |
+| [**Channel X**](https://github.com/jibranabduljabbar/channel-x) | JavaScript, Node.js | Real-time channel/messaging application |
+| [**E-commerce App UI**](https://github.com/jibranabduljabbar/Ecommerce-App-UI) | Flutter, Dart | Online shopping mobile app UI |
+
+👉 More on my [portfolio](https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/) and in my [repositories](https://github.com/jibranabduljabbar?tab=repositories).
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibranabduljabbar&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🤝 Let's Work Together
+
+I'm available for **freelance and contract work** — full-stack web apps, dashboards, e-commerce, mobile apps, and API development.
+
+- 📧 **Email:** [jibranjabbar06@gmail.com](mailto:jibranjabbar06@gmail.com)
+- 🟢 **Fiverr:** [fiverr.com/jibran_jabbar12](https://www.fiverr.com/jibran_jabbar12)
+- 💼 **LinkedIn:** [jibran-abdul-jabbar](https://linkedin.com/in/jibran-abdul-jabbar-249a66209)
+- 🌐 **Portfolio:** [jibranabduljabbar.github.io](https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/)
+
+<p align="center">
+  <a href="https://dev.to/jibran123"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://medium.com/@jibranjabbar06"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/15539343/jibran-abdul-jabbar"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/jibran24997917"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.youtube.com/channel/UCBpEZgiCVVpmVpExBMdiduw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
