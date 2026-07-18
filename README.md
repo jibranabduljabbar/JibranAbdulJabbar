@@ -11,6 +11,7 @@
 <div align="center">
 
   <a href="mailto:jibranjabbar06@gmail.com"><img src="https://img.shields.io/badge/-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01f4146511fb9460e9"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated" /></a>&nbsp;
   <a href="https://www.fiverr.com/jibran_jabbar12"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>&nbsp;
   <a href="https://linkedin.com/in/jibran-abdul-jabbar-249a66209"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://jibranabduljabbar.github.io/Jibran-Abdul-Jabbar/"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=7aa2f7" alt="Portfolio" /></a>&nbsp;
@@ -23,6 +24,8 @@
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/jibranabduljabbar/JibranAbdulJabbar/master/assets/terminal.svg" alt="terminal" />
 </p>
+
+<br />
 
 <div align="center">
 
@@ -119,6 +122,8 @@
 <div align="center">
 
   <a href="mailto:jibranjabbar06@gmail.com"><img src="https://img.shields.io/badge/Email-jibranjabbar06@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <br /><br />
+  <a href="https://www.upwork.com/freelancers/~01f4146511fb9460e9"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20freelancer%20with%20100%25%20success-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" /></a>
   <br /><br />
   <a href="https://www.fiverr.com/jibran_jabbar12"><img src="https://img.shields.io/badge/Fiverr-Hire%20me%20for%20your%20next%20project-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr" /></a>
   <br /><br />
