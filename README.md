@@ -1,10 +1,10 @@
 <a href="https://github.com/jibranabduljabbar">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Jibran%20Abdul%20Jabbar&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=%E2%9F%A8%20Full-Stack%20Engineer%20%2F%3E&descAlignY=58&descSize=22" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Jibran%20Abdul%20Jabbar&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer&descAlignY=58&descSize=22" alt="banner" />
 </a>
 
 <p align="center">
   <a href="https://github.com/jibranabduljabbar">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=const+role+%3D+%22Full-Stack+Engineer%22%3B;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;75%2B+web+apps+%7C%7C+50%2B+mobile+apps+shipped;while(alive)+%7B+code()%3B+ship()%3B+repeat()%3B+%7D" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;75%2B+web+apps+and+50%2B+mobile+apps+shipped;Available+for+freelance+and+full-time+work" alt="typing" />
   </a>
 </p>
 
@@ -20,29 +20,29 @@
 
 <br />
 
-## ⚡ ~/whoami
+## About
 
 ```typescript
 const jibran: FullStackEngineer = {
-  company:   "VSCO Tek (PVT) Ltd",
-  location:  "Karachi, Pakistan 🇵🇰",
-  uptime:    "5+ years in production",
+  company:  "VSCO Tek (PVT) Ltd",
+  location: "Karachi, Pakistan",
+  uptime:   "5+ years in production",
 
   stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-    backend:   ["Node.js", "Express", "MongoDB", "Firebase"],
-    mobile:    ["Flutter", "React Native"],
-    ai_vision: ["OpenCV", "MediaPipe", "Face/Object Detection"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
+    backend:  ["Node.js", "Express", "MongoDB", "Firebase"],
+    mobile:   ["Flutter", "React Native"],
+    ai:       ["OpenCV", "MediaPipe", "Computer Vision"],
   },
 
-  shipped:      { webApps: 75, mobileApps: 50 },   // and counting
-  currentFocus: "AI-powered web platforms 🤖",
+  shipped:      { webApps: 75, mobileApps: 50 },
+  currentFocus: "AI-powered web platforms",
 
-  contact: "jibranjabbar06@gmail.com",             // response time < 24h ⚡
+  contact: "jibranjabbar06@gmail.com", // response time < 24h
 };
 ```
 
-## 🧰 ~/tech-stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ const jibran: FullStackEngineer = {
 
 </div>
 
-## 📈 ~/github-metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -72,22 +72,22 @@ const jibran: FullStackEngineer = {
 
 </div>
 
-## 🚀 ~/featured-work
+## Featured Work
 
-| 💡 Project | ⚙️ Stack | 📄 What it does |
+| Project | Stack | Description |
 |---|---|---|
-| [**Auction.AI**](https://github.com/jibranabduljabbar/auction.ai) | `TypeScript` `Next.js` | AI-powered auction platform — bidding engine, dashboards |
-| [**Channel X**](https://github.com/jibranabduljabbar/channel-x) | `Node.js` `JavaScript` | Real-time channel & messaging application |
+| [**Auction.AI**](https://github.com/jibranabduljabbar/auction.ai) | `TypeScript` `Next.js` | AI-powered auction platform with bidding engine and dashboards |
+| [**Channel X**](https://github.com/jibranabduljabbar/channel-x) | `Node.js` `JavaScript` | Real-time channel and messaging application |
 | [**Dashboard App**](https://github.com/jibranabduljabbar/Dashboard-App) | `Next.js` `TypeScript` | Contacts management dashboard with typed API layer |
-| [**E-commerce App**](https://github.com/jibranabduljabbar/Ecommerce-App-UI) | `Flutter` `Dart` | Mobile shopping experience — cart, catalog, checkout |
+| [**E-commerce App**](https://github.com/jibranabduljabbar/Ecommerce-App-UI) | `Flutter` `Dart` | Mobile shopping experience with cart, catalog and checkout |
 
 <p align="center">
   <a href="https://github.com/jibranabduljabbar?tab=repositories"><img src="https://img.shields.io/badge/-View%20All%20Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="all repos" /></a>
 </p>
 
-## 🤝 ~/hire-me
+## Work With Me
 
-**Open for freelance & contract work** — full-stack web apps, dashboards, e-commerce, mobile apps, APIs.
+**Open for freelance and contract work:** full-stack web apps, dashboards, e-commerce, mobile apps and APIs.
 
 <div align="center">
 
