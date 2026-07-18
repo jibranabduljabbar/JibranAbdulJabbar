@@ -64,11 +64,6 @@ Full-Stack Engineer at **VSCO Tek (PVT) Ltd**, based in Karachi, Pakistan, with 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibranabduljabbar&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibranabduljabbar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibranabduljabbar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -88,4 +83,3 @@ I'm available for **freelance and contract work** — full-stack web apps, dashb
   <a href="https://twitter.com/jibran24997917"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.youtube.com/channel/UCBpEZgiCVVpmVpExBMdiduw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
-
